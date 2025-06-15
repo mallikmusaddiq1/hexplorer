@@ -64,7 +64,7 @@ venv.bak/
 
 # Git itself
 .git/
-.gitignore
+# .gitignore
 
 # Termux/Android special (optional)
 storage/
